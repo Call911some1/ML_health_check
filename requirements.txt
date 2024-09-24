@@ -5,7 +5,7 @@ seaborn==0.13.2
 tqdm==4.66.2
 streamlit==1.38.0
 scikit-learn==1.5.2
-catboost==1.1.1
-lightgbm==3.3.2
+catboost==1.2.7
+lightgbm==4.5.0
 xgboost==2.1.1
 optuna==4.0.0
